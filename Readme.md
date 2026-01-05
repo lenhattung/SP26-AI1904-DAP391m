@@ -27,7 +27,6 @@
 - Từ tuần 1 đến tuần 6
 
 ## Grading structure:
-# Assessment Component
 - Hạng mục đánh giá"	Assessment Type
 - 1	Progress test	on-going x 10%
 - 2	Project Planning	on-going x10%
