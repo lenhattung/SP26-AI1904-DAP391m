@@ -13,13 +13,13 @@
 
 ## Courses:
 
-No	MaterialDescription	Purpose	ISBN	Type	Note	Author
-1	Applied Data Science Capstone	textbook		online	https://www.coursera.org/learn/applied-data-science-capstone	IBM
-2	Building AI Applications with Watson APIs	textbook		online	https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-getting-started	IBM
-3	Data Analysis with Python	textbook		online	https://www.coursera.org/learn/data-analysis-with-python	IBM
-4	Data Visualization with Python	textbook		online	https://www.coursera.org/learn/python-for-data-visualization	IBM
-5	GP 1: Simple Linear Regression for the Absolute Beginner	reference		online	https://www.coursera.org/projects/simple-linear-regression-for-the-absolute-beginner	Coursera
-6	GP 2: Predict Ad Clicks Using Logistic Regression and XG-Boost	reference		online	https://www.coursera.org/projects/predict-ad-clicks-using-logistic-regression-and-xg-boost	Coursera
+- No	MaterialDescription	Purpose	ISBN	Type	Note	Author
+- 1	Applied Data Science Capstone	textbook		online	https://www.coursera.org/learn/applied-data-science-capstone	IBM
+- 2	Building AI Applications with Watson APIs	textbook		online	https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-getting-started	IBM
+- 3	Data Analysis with Python	textbook		online	https://www.coursera.org/learn/data-analysis-with-python	IBM
+- 4	Data Visualization with Python	textbook		online	https://www.coursera.org/learn/python-for-data-visualization	IBM
+- 5	GP 1: Simple Linear Regression for the Absolute Beginner	reference		online	https://www.coursera.org/projects/simple-linear-regression-for-the-absolute-beginner	Coursera
+- 6	GP 2: Predict Ad Clicks Using Logistic Regression and XG-Boost	reference		online	https://www.coursera.org/projects/predict-ad-clicks-using-logistic-regression-and-xg-boost	Coursera
 
 
 ## Coursera cộng điểm:
@@ -27,7 +27,7 @@ No	MaterialDescription	Purpose	ISBN	Type	Note	Author
 - Từ tuần 1 đến tuần 6
 
 ## Grading structure:
-#	"Assessment Component
+# Assessment Component
 - Hạng mục đánh giá"	Assessment Type
 - 1	Progress test	on-going x 10%
 - 2	Project Planning	on-going x10%
