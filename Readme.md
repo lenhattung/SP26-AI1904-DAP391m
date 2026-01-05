@@ -4,8 +4,10 @@
 
 - Github: https://github.com/lenhattung/SP26-AI1904-DAP391m
 
-- LMS: https://lms-hcm.fpt.edu.vn/login/index.php \\
+- LMS: https://lms-hcm.fpt.edu.vn/login/index.php
 - Code: DAP391m#@!$
 
+- Edunext: https://fu-edunext.fpt.edu.vn/
 
+- Sides/ Syllabus: https://flm.fpt.edu.vn/Login
 
