@@ -11,6 +11,8 @@
 
 - Sides/ Syllabus: https://flm.fpt.edu.vn/Login
 
+- Zalo: https://zalo.me/g/ehwhql668
+
 ## Courses:
 
 - No	MaterialDescription	Purpose	ISBN	Type	Note	Author
