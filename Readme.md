@@ -36,4 +36,8 @@
 - 4	Final Project Evaluation	on-going x20%
 - 5	Final exam 	final exam x30%
 
+## Videos:
+- 1 - https://youtu.be/g1SQPgM-aYM
+
+
 
